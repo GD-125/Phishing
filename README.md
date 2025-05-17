@@ -82,5 +82,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 DevQueens - [Visit our website](https://example.com)
-
-Project Link: [https://github.com/yourusername/phishguard](https://github.com/yourusername/phishguard)
